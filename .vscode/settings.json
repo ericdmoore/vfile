@@ -1,0 +1,7 @@
+{
+    "deno.codeLens.referencesAllFunctions": true,
+    "deno.codeLens.references": true,
+    "deno.codeLens.implementations": true,
+    "deno.enable": true,
+    "deno.suggest.completeFunctionCalls": true
+}
