@@ -14,10 +14,7 @@ This is useful for example when building linters, compilers, static site
 generators, or other build tools.
 **vfile** is part of the [unified collective][site].
 
-*   for updates, see [Twitter][]
-*   for more about us, see [`unifiedjs.com`][site]
-*   for questions, see [Discussions][chat]
-*   to help, see [contribute][] or [sponsor][] below
+*   for more about us, see [`unifiedjs.com`](https://unifiedjs.com)
 
 For More info see [source package][vfile]
 
