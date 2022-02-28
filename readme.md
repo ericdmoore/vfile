@@ -2,13 +2,7 @@
   <img src="https://raw.githubusercontent.com/vfile/vfile/fc8164b/logo.svg?sanitize=true" alt="vfile" />
 </h1>
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
-[![Sponsors][sponsors-badge]][collective]
-[![Backers][backers-badge]][collective]
-[![Chat][chat-badge]][chat]
+> vfile for deno
 
 **vfile** is a small and browser friendly virtual file format that tracks
 metadata (such as a file’s `path` and `value`) and [messages][].
