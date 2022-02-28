@@ -19,7 +19,8 @@ generators, or other build tools.
 *   for questions, see [Discussions][chat]
 *   to help, see [contribute][] or [sponsor][] below
 
-For More info see (source package)[vfile]
+For More info see [source package][vfile]
+
 ```js
 <script>
   import {VFile} from "https://denopkg.com/ericdmoore/vfile@main/mod.ts"
